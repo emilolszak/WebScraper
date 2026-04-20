@@ -1,0 +1,174 @@
+[
+    {
+        "opinion_id": "16311463",
+        "author": "Daniel",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "content": "Sądzę że ten produkt jest rewelacyjny i bardzo go polecam żeby każdy sobie go kupił bo warto super wyświetlacz super kąty widzenia super wykonanie i dobra cena jak za takiej świetnej klasy temonetr",
+        "pros": [
+            "funkcjonalność",
+            "jakość",
+            "mogę polecić kupujcie",
+            "super jakość wykonania",
+            "super konty jak odychyla",
+            "super wyświetlacz",
+            "trwałość"
+        ],
+        "cons": [
+            "zero wad tego urządzenia"
+        ],
+        "helpful": "1",
+        "unhelpful": "0",
+        "publish_date": "2022-07-13 10:35:38",
+        "purchase_date": "2022-06-30 20:01:21"
+    },
+    {
+        "opinion_id": "18388154",
+        "author": "Wiesław",
+        "recommendation": null,
+        "score": "3,5/5",
+        "content": "Dokładnie spasowane atrakcyjny wygląd znakomita czytelność wyświetlacza. Montaż baterii - PORAŻKA, nie trzymają się w gniazdach - trzeba bardzo delikatnie zamykac pokrywkę bo inaczej wyskakują. Restart za pomocą zwierania styków na płytce drukowane to tez pomysł szaleńca...",
+        "pros": [
+            "jakość",
+            "mogę polecić kupujcie",
+            "super jakość wykonania",
+            "super wyświetlacz"
+        ],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2024-02-11 21:38:29",
+        "purchase_date": "2024-01-14 20:15:26"
+    },
+    {
+        "opinion_id": "16962820",
+        "author": "Michał",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "content": "Rewelacja! Nareszcie znalazłem mały zegar cyfrowy, który pokazuje właściwy czas. Bo te zasilane z gniazdka 230V pokazują czas losowo, zależnie od natężenia prądu.",
+        "pros": [
+            "funkcjonalność",
+            "jakość",
+            "super jakość wykonania",
+            "trwałość"
+        ],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2023-01-02 11:31:46",
+        "purchase_date": "2022-12-24 14:21:18"
+    },
+    {
+        "opinion_id": "18369992",
+        "author": "Artur",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "content": "Ładny design, obraz żyleta. Jedyny minus: ten model nie jest kompatybilny z Xiaomi Home na chińskim serwerze (polski serwer obsługuje bez problemu).",
+        "pros": [
+            "funkcjonalność",
+            "super wyświetlacz"
+        ],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2024-02-06 08:11:50",
+        "purchase_date": "2024-01-09 00:40:28"
+    },
+    {
+        "opinion_id": "18350592",
+        "author": "s...s",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "content": "Polecam. Wyświetlacz e-ink jest bardzo czytelny pod każdym kątem patrzenia. Jedyna wada to brak podświetlenia. Mnie jednak to nie przeszkadza.",
+        "pros": [],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2024-01-30 12:32:34",
+        "purchase_date": "2024-01-21 08:02:48"
+    },
+    {
+        "opinion_id": "17875529",
+        "author": "b...k",
+        "recommendation": "Polecam",
+        "score": "4/5",
+        "content": "Za tak niską cenę, produkt spełniający oczekiwanie. Czas,temperatura i wilgotność.",
+        "pros": [
+            "funkcjonalność",
+            "jakość",
+            "mogę polecić kupujcie",
+            "super jakość wykonania",
+            "super wyświetlacz",
+            "trwałość"
+        ],
+        "cons": [
+            "brak baterii"
+        ],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2023-09-06 14:47:50",
+        "purchase_date": "2023-08-02 12:06:50"
+    },
+    {
+        "opinion_id": "20130479",
+        "author": "d...2",
+        "recommendation": "Polecam",
+        "score": "4/5",
+        "content": "Irytujące jest tylko to że żeby zaktualizować godzinę trzeba zainstalować aplikację na telefonie.\nReszta bez zarzutu.",
+        "pros": [],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2025-12-06 19:35:12",
+        "purchase_date": "2025-11-28 21:25:26"
+    },
+    {
+        "opinion_id": "17202013",
+        "author": "a...n",
+        "recommendation": "Polecam",
+        "score": "5/5",
+        "content": "To jest to, o co mi chodziło! Świetny, czytelny wyświetlacz i do tego dokładny pomiar temperatury. POLECAM!",
+        "pros": [],
+        "cons": [],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2023-02-28 11:07:35",
+        "purchase_date": "2023-02-21 16:35:08"
+    },
+    {
+        "opinion_id": "16792011",
+        "author": "Paweł",
+        "recommendation": "Nie polecam",
+        "score": "0,5/5",
+        "content": "Monitor nie łączy się przez aplikację android z telefonem Xiaomi mi11, czyli dość świeżym modelem, łączy się za to z apple.\nPomimo połączenia nie da się zdalnie sprawdzić temperatury, czyli taki monitor nie monitor - można sprawdzić na telefonie to samo co widać gołym okiem.\nTo już druga wtopa po tym jak oczyszczacz powietrza, także kupiony na miejscu w pl przestał się łączyć z aplikacją do zdalnego sterowania.",
+        "pros": [
+            "jakość"
+        ],
+        "cons": [
+            "funkcjonalność",
+            "mogę polecić kupujcie"
+        ],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2022-11-25 09:13:02",
+        "purchase_date": "2022-11-07 21:34:04"
+    },
+    {
+        "opinion_id": "19615624",
+        "author": "m...8",
+        "recommendation": "Nie polecam",
+        "score": "1,5/5",
+        "content": "Mam dwa takie urządzenia. Jeden działa bez zastrzeżen a drugi po zmianie czasu stracił kontakt z rzeczywistością. Nie udaje się go przestawić na aktualny czas i ogólnie pokazuje inną strefę czasową. Także sprawdzalność 50/50.",
+        "pros": [
+            "funkcjonalność"
+        ],
+        "cons": [
+            "jakość",
+            "trwałość"
+        ],
+        "helpful": "0",
+        "unhelpful": "0",
+        "publish_date": "2025-04-24 09:14:56",
+        "purchase_date": "2025-03-13 14:41:50"
+    }
+]
